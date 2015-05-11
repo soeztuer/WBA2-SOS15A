@@ -1,0 +1,23 @@
+{
+  "name": "Aufgabe2",
+  "version": "1.0.0",
+  "description": "exercise text colored",
+  "main": "wolkenkratzer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FretCode/WBA2SS15WuestlichStengelOeztuerk.git"
+  },
+  "author": "WuestlichStengelOeztuerk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FretCode/WBA2SS15WuestlichStengelOeztuerk/issues"
+  },
+  "homepage": "https://github.com/FretCode/WBA2SS15WuestlichStengelOeztuerk",
+  "dependencies": {
+    "chalk": "^1.0.0"
+  },
+  "devDependencies": {}
+}
